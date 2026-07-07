@@ -247,12 +247,6 @@ Open a Pull Request
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-👨‍💻 Author
-Your Name
-https://img.shields.io/badge/GitHub-YourGitHub-181717?logo=github
-https://img.shields.io/badge/LinkedIn-YourLinkedIn-0A66C2?logo=linkedin
-📧 your.email@example.com
-
 🙏 Acknowledgments
 Framingham Heart Study for providing the dataset
 
